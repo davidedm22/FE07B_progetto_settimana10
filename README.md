@@ -2,4 +2,3 @@
 ToDo Angular
 
 
-P.s. Non ho usato Bootstrap
